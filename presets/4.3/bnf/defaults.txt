@@ -17,8 +17,6 @@
 #$ DESCRIPTION:  -
 #$ DISCUSSION: https://github.com/manytop/betaflight-presets
 #$ FORCE_OPTIONS_REVIEW: TRUE
-#$ INCLUDE_WARNING: misc/warnings/ua/dshot.txt
-#$ INCLUDE_WARNING: misc/warnings/ua/rpm_filters.txt
 
 #$ OPTION_GROUP BEGIN: OSD
     #$ OPTION BEGIN (UNCHECKED): OSD
