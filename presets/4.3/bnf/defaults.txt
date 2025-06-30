@@ -11,10 +11,6 @@
 
 #$ DESCRIPTION: Hi!
 #$ DESCRIPTION:  -
-#$ DESCRIPTION:  -
-#$ DESCRIPTION:  -
-#$ DESCRIPTION:  -
-#$ DESCRIPTION:  -
 #$ DISCUSSION: https://github.com/manytop/betaflight-presets
 #$ FORCE_OPTIONS_REVIEW: TRUE
 
